@@ -1,0 +1,2 @@
+# QtGstPlayer
+QT-GStreamer Player
