@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/new/image">
+        <file>Image/icon_fronware.png</file>
+    </qresource>
+</RCC>
